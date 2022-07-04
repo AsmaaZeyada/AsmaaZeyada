@@ -8,4 +8,5 @@ I'm a Front-end developer who helps companies create better software on the web 
 - 🌱 I’m currently learning  React.js
 - 💬 Ask me about (Angular, javaScript)
 - 📫 How to reach me: bmaser38@gmail.com
+- Hiring me?? this is my number:+201062442552 -01557013762
 -->
